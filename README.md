@@ -1,1 +1,1 @@
-# Talos.Kubernetes.FalcoUI
+# devops-kubernetes-gitops-k8sgpt
